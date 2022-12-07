@@ -1,0 +1,28 @@
+h1{
+     text-align: center;
+     color:blueviolet;
+}
+body{
+    background-color:#E9ECEF ;
+}
+.div{
+    color:white;
+}
+p{
+    color:blueviolet;
+}
+.urunkutusu{
+    background-color: white;
+    height: 100%;
+   padding: 15px;
+}
+.urunsutunu{
+    margin-bottom: 30px; 
+   
+}
+.urunkutusu img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+height: 100px;
+}
